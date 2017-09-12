@@ -15,12 +15,12 @@ var bg = new Image();
 
 window.onload = function()
 {
-	b[0].src = 'd.png'
-	b[1].src = 'l.png'
-	b[2].src = 'r.png'
-	b[3].src = 'u.png'
+	b[0].src = 'downBoost.png'
+	b[1].src = 'leftBoost.png'
+	b[2].src = 'rightBoost.png'
+	b[3].src = 'upBoost.png'
 
-	bg.src = 'b.png'
+	bg.src = 'background.png'
 }
 
 var background =
