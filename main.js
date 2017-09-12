@@ -391,9 +391,9 @@ var then = Date.now()
 startNewGame()
 loop()
 
-/////////////////////////
-//TO DO + notes etc etc//
-/////////////////////////
+
+
+//Things that could've been added / changed
 
 //potentially add max to enemies spawnable
 
